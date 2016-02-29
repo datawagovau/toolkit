@@ -27,9 +27,9 @@ To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register]
 
 > Dear Data.WA,
 >  
-> On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
+> On behalf of the *{agency name}*, I request a data publishing account on data.wa.gov.au. *{agency name}* will be responsible for the management of this account and the data that is published using it. *{agency name}* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
 > 
-> I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
+> I have registered the account name *{account name}* with email address *{email address}* on data.wa.gov.au and request access to the organisation(s) *{organisation name(s)}* to publish data and act as an administrator for my organisation.
 > 
 > I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
 
