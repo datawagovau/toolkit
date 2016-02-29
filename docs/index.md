@@ -1,7 +1,6 @@
 # Data.wa.gov.au Toolkit
 
->> WIP notice
->> For help opendata@lg
+> Work In Progress
 
 ## Introduction
 Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [http://data.wa.gov.au State’s Open Data Policy].
@@ -12,7 +11,9 @@ The platform established for data.wa.gov.au is available for use by all WA Gover
 
 This toolkit is an evolving resource to assist data custodians with the process of identifying, preparing, and publishing open data and should be read with reference to our exists [http://data.wa.gov.au/fact-sheets-and-toolkit fact sheets and toolkit] resource.
 
-- *The Open Data Data.WA Team*
+For assistance with anything please contact [opendata@landgate.wa.gov.au mailto:opendata@landgate.wa.gov.au].
+
+*The Open Data Data.WA Team*
 
 
 ## Getting an account
