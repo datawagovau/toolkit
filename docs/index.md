@@ -1,11 +1,111 @@
-<h1>Data.wa.gov.au Toolkit</h1>
+# Data.wa.gov.au Toolkit
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel vulputate ipsum, eget semper neque. Fusce quis est ligula. Sed lacus dolor, imperdiet eu diam tincidunt, convallis efficitur diam. Maecenas vitae pharetra metus. Curabitur ante ex, eleifend et tempus nec, finibus at tortor. Duis non quam nec lectus consequat venenatis. Mauris nunc eros, iaculis id mi et, pretium facilisis sapien. Ut non risus ut enim tristique vulputate non ac diam. Nulla fringilla malesuada leo vitae vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+>> WIP notice
+>> For help opendata@lg
 
-Proin tempus dapibus sapien, non viverra tortor dictum eget. Phasellus cursus nunc id lacus eleifend pretium quis sit amet ante. Mauris quis iaculis risus. Etiam bibendum tellus ut ullamcorper convallis. Nulla et est vel velit rhoncus placerat. Pellentesque sagittis risus ac augue consequat, vel mattis ante scelerisque. Nulla efficitur tempor ante ac pellentesque. Suspendisse at nibh neque. Integer eget turpis eget augue tincidunt facilisis. Morbi vestibulum lacus at luctus venenatis. Nam feugiat leo et justo vehicula vehicula. Nam hendrerit eget dolor elementum cursus. Sed non dui sit amet turpis sodales suscipit ac sit amet arcu. Cras dui erat, auctor id egestas ut, vulputate eget tortor. Etiam aliquet sed eros ut congue. Morbi mollis at lacus vitae dignissim.
+## Introduction
+Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [http://data.wa.gov.au State’s Open Data Policy].
 
-Donec facilisis metus augue, sed feugiat nulla porttitor eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam cursus non ante eget luctus. Nullam sed semper nisi, a dictum dolor. In dui velit, lacinia in ex sed, viverra aliquet metus. In a dui interdum, consectetur magna sit amet, luctus ante. Vestibulum vitae diam eu massa suscipit varius vitae lobortis ligula. Aliquam ut scelerisque sem. Morbi sed dolor ac mauris condimentum interdum nec eu leo. Fusce malesuada leo urna. Fusce ut magna sit amet ante interdum molestie sed ut tortor. Suspendisse sagittis, neque id vestibulum cursus, quam lectus interdum purus, in auctor massa eros maximus ligula. Ut risus metus, varius vel convallis vel, dignissim et ex. Vestibulum et quam et velit tempus mollis vitae quis lectus. Donec sapien quam, viverra nec ante vel, semper iaculis est. Curabitur nec dapibus neque.
+The policy calls for WA Government agencies to release high-value data, openly to the public, in machine-readable formats, and in ways that are easily discoverable and useable. There are a range of resources and guidance to assist agencies in implementing the policy on [http://data.wa.gov.au data.wa.gov.au] - including an overview checklist and detailed guide for identifying and preparing data for release, a number of factsheets on key components of implementing open data, and links to further websites and resources.
 
-Donec porta, mi nec egestas finibus, nibh erat hendrerit mauris, vulputate dictum elit ligula non massa. Phasellus facilisis vulputate neque et sodales. Etiam egestas quis arcu quis dignissim. Fusce elit mauris, aliquet dignissim mollis sed, bibendum sit amet nunc. Praesent maximus pretium eros sed molestie. Sed vulputate, metus non rhoncus dignissim, sem arcu consequat elit, quis tincidunt felis purus et lorem. Etiam ut nisi quis tellus ullamcorper gravida. Integer non mi accumsan, ullamcorper lectus sit amet, malesuada ex.
+The platform established for data.wa.gov.au is available for use by all WA Government agencies at no cost as a whole-of-government data infrastructure - and we welcome the participation of the AACC Data Warehouse group in this trial.
 
-Suspendisse ut semper ex. Suspendisse vulputate imperdiet lectus, sed maximus lacus dictum in. Nam hendrerit varius lacus, laoreet pulvinar arcu aliquam sit amet. Sed viverra nulla turpis, at tincidunt neque luctus non. Curabitur ut erat aliquet, porttitor eros vitae, condimentum velit. Nulla mattis lectus sed elementum elementum. Duis consequat sem in dolor imperdiet, at volutpat turpis rhoncus. Curabitur posuere velit in consectetur aliquam. Maecenas eu nunc malesuada, mattis metus et, tincidunt nulla. Quisque a ligula eget purus varius fermentum.
+This toolkit is an evolving resource to assist data custodians with the process of identifying, preparing, and publishing open data and should be read with reference to our exists [http://data.wa.gov.au/fact-sheets-and-toolkit fact sheets and toolkit] resource.
+
+- *The Open Data Data.WA Team*
+
+
+## Getting an account
+Anyone can create an account on data.wa.gov.au, which can be used for commenting or following datasets.
+
+To publish government data you must register an account with a .wa.gov.au email address. Before doing this you must have appropriate permission from your entity to publish on their behalf. You will also be required to request publishing permissions from the data.wa.gov.au team.
+
+Landgate requires all new data custodians to get sign off from their organisation to before creating a publishing account. Landgate reviews publisher accounts periodically to ensure appropriate access to publish on data.wa.gov.au is maintained.
+
+We recommend that you do not use an individual’s email address for the main management account for your data.gov.au organisation. It is much better to use a shared inbox as it provides for continuity should the named data custodian change.
+
+To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register http://catalogue.beta.data.wa.gov.au/user/register] and complete the form on the page. Then email [opendata@landgate.wa.gov.au mailto:opendata@landgate.wa.gov.au] with the following email to verify who you are and that you wish to be granted publishing privileges:
+
+> Dear Data.WA,
+>  
+> On behalf of the ''<agency name>'', I request a data publishing account on data.wa.gov.au. ''<agency name>'' will be responsible for the management of this account and the data that is published using it. ''<agency name>'' will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
+> 
+> I have registered the account name ''<account name>'' with email address ''<email address>'' on data.wa.gov.au and request access to the organisation(s) ''<organisation name(s)>'' to publish data and act as an administrator for my organisation.
+> 
+> I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
+
+
+
+## A note for SLIP Publishers
+If you are a WA Government agency who currently publishes geospatial data through the [http://slip.landgate.wa.gov.au/ Shared Location Information Platform (SLIP)] then you will not need to republish your data on data.wa.gov.au. All data published through SLIP are automatically populated in data.wa.gov.au, with all available service endpoints (e.g. WMS, WFS, Downloads), and metadata (e.g. geospatial extent) being updated automatically each day.
+
+We strongly encourage all custodian with data in SLIP to update the metadata records for their data in data.wa.gov.au - '''but require that you do not change the Title field of your dataset''' without first coordinating the change of dataset name with the SLIP team.
+
+(The Title field is the unique attribute that data.wa.gov.au uses for each dataset it automatically harvests from SLIP, so changing the name in data.wa.gov.au without also changing it in SLIP would result in a disconnect between the two systems.)
+
+If you would like to rename, remove, move your data within SLIP, please contact [slip@landgate.wa.gov.au mailto:slip@landgate.wa.gov.au] before taking any action (e.g. deleting a dataset, setting its visiblity to Private) in data.wa.gov.au so we can coordinate the process.
+
+
+## A note for SPC Members
+If you are a member of the Western Australian Statistical Policy Committee (SPC) looking to publish metadata records for your data as part of the ''SPC Metadata Project'' you will find a step-by-step guide to publishing data in the section below.
+
+Further to this guide, we suggest that you include an ''"spc"'' tag in any metadata records you publish so as to aid discoverability.
+
+The second step detailed below - Add data - is the point at which you will be able to upload the Word, PDF, et cetera documents you prepared as part of the ''SPC Metadata Project''.
+
+
+## Publishing Data
+Data.wa.gov.au already contains explanations of the fields you'll need to fill in as part of the data publishing process. This longer step-by-step guide is intended for first-time users and includes some more descriptive explanations of certain fields.
+
+* Login with your authenticated account 
+* Browse to Datasets (top menu) 
+* Click '''Add Dataset''' (Remember you may have multiple files in the one dataset.) 
+* On the first page you’ll be asked to complete fields to describe your data (the metadata).
+  * '''Title''' (required): name of the dataset.
+  * '''Description''': descriptive information about the dataset can also include further information or caveats pertaining to the data. * For formatting you can use [http://daringfireball.net/projects/markdown/syntax markdown].
+  * '''Tags''': some tags (or keywords) that describe your data.
+  * '''License''' (required): a dropdown of available licenses for data.wa.gov.au (''[http://data.wa.gov.au/fact-sheets-and-toolkit/licensing-and-charging  Licensing Creative Commons is endorsed by WA Government and the recommended default under the Open Data Policy''])
+  * '''Organisation''': a dropdown of organisations you can publish to. Most users can only publish to a single organisation. This will be automatically filled in.
+  * '''Visibility''': whether the dataset will be viewable to all users once complete. The default is private. 
+  * '''Data Portal''': another website or resource that users may go to to discover more context and information about the dataset (e.g. The relevant page on your agency's website). If that does not apply, leave it blank.
+  * '''Data Homepage:''': for datasets that exist in another catalogue (e.g. SLIP) this will be the access point for detailed catalogue-specific information about the dataset. If you're unsure, leave this blank.
+  * '''DOI''': the Digital Object Identifier assigned to your dataset (if you have created one). More information about the DOI system [http://www.doi.org/ is availabe here], and is more typically used in scientific disciplines and publishing. If you're unsure, leave this blank.
+  * '''Citation''': the citation that users of the dataset should use in publications, articles, et cetera. If you're unsure, leave this blank. 
+  * '''Author & Author Email''': the name and email address of the person who is primarily dataset for creating and maintaining the data.
+  * '''Maintainer & Maintainer Email''': the name and email address of the person who is responsible for maintaining the dataset on data.wa.gov.au.
+  * '''Theme''': the [http://agift.naa.gov.au/ AGIFT] top level government function to which the dataset relates.
+  * '''Language''': the language in which the dataset is published. The default is English.
+  * '''Published On''': the date on which this dataset was, or shall be, published.
+  * '''Data last updated on''': the date on which the data on data.wa.gov.au itself was last updated.
+  * '''Update Frequency''':  how often the dataset is updated. Eg: Daily, Weekly, Never.
+  * '''Temporal Coverage From / To''' (required): the span of time from/to which the data is applicable. If the data applies only to a single point in time you should only fill in the Temporal Coverage From field.
+  * '''Geospatial Coverage''' (required): this is the physical area which the data covers. It is used to power the search functionality of data.wa.gov.au, so it does not need to be precise. It can be;
+    ** a rectangle/polygon drawn by-hand;
+    ** a pre-defined extent; or
+    ** a ([http://geojson.org/ GeoJSON]) formatted Polygon/MultiPolgon.
+    **  ''NB'': Data sourced from SLIP will populate this field automatically.
+* Click '''Next: Add Data'''
+* Click '''Upload''' and select the file, or link to a file, you wish to add to the dataset (e.g. the data itself, or any data dictionaries, metadata statements, et cetera you may have. See [#Supportive documentation/context Supportive documentation/context]. Add a description for this file and add the (likely) 3 letter file extension to the Format field.
+  * You can add additional files to the dataset by clicking '''Save and add another''' and repeating the process. When finished adding resources click '''Next: Additional Info'''.
+* Click the '''Finish''' button.
+
+### Supportive documentation/context
+Publish any supportive documentation, caveats, user restrictions, and contextual information in the text of the descriptive information about the data set. If the information is extensive it can also be uploaded as a an additional resource to the dataset.
+
+Please do not put the data into the documentation itself, as it means the platform will treat it as just another file like a PDF rather than as a data file. This means the data is inaccessible to users and no API or data visualisation will be available for your dataset.
+
+### Publishing Screenshots
+![A screenshot of the 'Create dataset' page on data.wa.gov.au ](../imgs/create-dataset-step-1.png)
+'''Publishing a new dataset – Step 1 - Details about the set'''
+
+![A screenshot of the 'Create dataset' page on data.wa.gov.au ](../imgs/create-dataset-step-2.png)
+'''Publishing a new dataset – Step 2 - Upload file(s) or a link to a data service'''
+
+## Updating an Existing Dataset
+For information on updating an existing dataset, or uploading updated versions of data, please see [toolkit.data.gov.au https://toolkit.data.gov.au/index.php?title=Publishing_Data#Updating_an_Existing_Dataset].
+
+## Attribution
+With thanks to the Data.gov.au Team. Parts of this toolkit are based on [toolkit.data.gov.au](https://toolkit.data.gov.au) under the Creative Commons Attribution 3.0 license.
+
+## @TODOs
+- Doco license
