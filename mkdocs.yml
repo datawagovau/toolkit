@@ -1,0 +1,25 @@
+site_name: Data.wa.gov.au Toolkit
+pages:
+    - [index.md, Home, Data.wa.gov.au Toolkit]
+    # - [dto.md, Home, DTO Digital Service Standard]
+    # - [splunk.md, Home, Splunk]
+    # - [hp-helion.md, Home, HP Helion]
+    # - [event-info/anatomy.md, Event Information, Anatomy of a GovHack Project]
+    # - [event-info/mentors.md, Event Information, Data Mentors]
+    # - [event-info/project-hosting.md, Event Information, Putting Your Project on the Web]
+    # - [event-info/productive-hacking.md, Event Information, Tools for More Producive Hacking]
+    # - [event-info/preparation.md, Event Information, Preparing for GovHack]
+    # - [event-info/kids-who-code.md, Event Information, Kids Who Code]
+    # - [technical/data-viz.md, Hacking Tips, Data Visualisation for Fun and Profit]
+    # - [technical/mobile-dev.md, Hacking Tips, Mobile Development]
+    # - [technical/geographic-data.md, Hacking Tips, Working with Geographic Data]
+    # - [technical/making-maps.md, Hacking Tips, Making Maps]
+    # - [technical/tabular-data.md, Hacking Tips, Working with Tabular Data]
+    # - [technical/scraping.md, Hacking Tips, Scraping Data]
+    # - [technical/unstructed-data.md, Hacking Tips, Working with Unstructed Data]
+    # - [technical/graph-dbs.md, Hacking Tips, Graph Databases]
+    # - [legalese.md, Legalese]
+theme: readthedocs
+site_favicon: imgs/favicon.ico
+extra_javascript: [scripts/fix-title.js]
+google_analytics: ['UA-64194644-1', 'toolkit.data.wa.gov.au']
