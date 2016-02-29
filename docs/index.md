@@ -3,7 +3,7 @@
 > Work In Progress
 
 ## Introduction
-Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [http://data.wa.gov.au State’s Open Data Policy].
+Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [http://data.wa.gov.au](State’s Open Data Policy).
 
 The policy calls for WA Government agencies to release high-value data, openly to the public, in machine-readable formats, and in ways that are easily discoverable and useable. There are a range of resources and guidance to assist agencies in implementing the policy on [http://data.wa.gov.au data.wa.gov.au] - including an overview checklist and detailed guide for identifying and preparing data for release, a number of factsheets on key components of implementing open data, and links to further websites and resources.
 
