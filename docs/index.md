@@ -45,11 +45,11 @@ If you would like to rename, remove, move your data within SLIP, please contact 
 
 
 ## A note for SPC Members
-If you are a member of the Western Australian Statistical Policy Committee (SPC) looking to publish metadata records for your data as part of the *SPC Metadata Project* you will find a step-by-step guide to publishing data in the section below.
+If you are a member of the Western Australian Statistical Policy Committee (SPC) looking to publish your datasets, or metadata records for your data as part of the *SPC Metadata Project*, you will find a step-by-step guide to publishing data in the section below.
 
-Further to this guide, we suggest that you include an **"spc"** tag in any metadata records you publish so as to aid discoverability.
+If you are publishing metadata records for the *SPC Metadata Project*, we suggest that you include an **"spc"** tag in any metadata records you publish so as to aid discoverability.
 
-The second step detailed below - Add data - is the point at which you will be able to upload the Word, PDF, et cetera documents you prepared as part of the *SPC Metadata Project*.
+Additionally, the second step detailed below - Add data - is the point at which you will be able to upload the Word, PDF, et cetera documents you prepared as part of the project.
 
 
 ## Publishing Data
