@@ -1,7 +1,5 @@
 # Data.wa.gov.au Toolkit
 
-> Work In Progress
-
 ## Introduction
 Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [State’s Open Data Policy](http://data.wa.gov.au).
 
@@ -25,17 +23,15 @@ Landgate requires all new data custodians to get sign off from their organisatio
 
 We recommend that you do not use an individual’s email address for the main management account for your data.gov.au organisation. It is much better to use a shared inbox as it provides for continuity should the named data custodian change.
 
-    This is some code
-
 To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register](http://catalogue.beta.data.wa.gov.au/user/register) and complete the form on the page. Then email [opendata@landgate.wa.gov.au](mailto:opendata@landgate.wa.gov.au) with the following email to verify who you are and that you wish to be granted publishing privileges:
 
-> Dear Data.WA,
->  
-> On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
-> 
-> I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
-> 
-> I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
+    Dear Data.WA,
+     
+    On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
+    
+    I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
+    
+    I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
 
 
 ## A note for SLIP Publishers
@@ -82,10 +78,10 @@ Data.wa.gov.au already contains explanations of the fields you'll need to fill i
     * **Update Frequency**:    how often the dataset is updated. Eg: Daily, Weekly, Never.
     * **Temporal Coverage From / To** (required): the span of time from/to which the data is applicable. If the data applies only to a single point in time you should only fill in the Temporal Coverage From field.
     * **Geospatial Coverage** (required): this is the physical area which the data covers. It is used to power the search functionality of data.wa.gov.au, so it does not need to be precise. It can be;
-        ** a rectangle/polygon drawn by-hand;
-        ** a pre-defined extent; or
-        ** a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolgon.
-        **  **NB**: Data sourced from SLIP will populate this field automatically.
+        * a rectangle/polygon drawn by-hand;
+        * a pre-defined extent; or
+        * a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolgon.
+        * **NB**: Data sourced from SLIP will populate this field automatically.
 * Click **Next: Add Data**
 * Click **Upload** and select the file, or link to a file, you wish to add to the dataset (e.g. the data itself, or any data dictionaries, metadata statements, et cetera you may have. See [Supportive documentation/context](#Supportive documentation/context). Add a description for this file and add the (likely) 3 letter file extension to the Format field.
   * You can add additional files to the dataset by clicking **Save and add another** and repeating the process. When finished adding resources click **Next: Additional Info**.
