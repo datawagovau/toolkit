@@ -25,19 +25,19 @@ We recommend that you do not use an individual’s email address for the main ma
 
 To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register](http://catalogue.beta.data.wa.gov.au/user/register) and complete the form on the page. Then email [opendata@landgate.wa.gov.au](mailto:opendata@landgate.wa.gov.au) with the following email to verify who you are and that you wish to be granted publishing privileges:
 
-    Dear Data.WA,
-     
-    On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
-    
-    I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
-    
-    I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
+> Dear Data.WA,
+>  
+> On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
+> 
+> I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
+> 
+> I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
 
 
 ## A note for SLIP Publishers
 If you are a WA Government agency who currently publishes geospatial data through the [Shared Location Information Platform (SLIP)](http://slip.landgate.wa.gov.au) then you will not need to republish your data on data.wa.gov.au. All data published through SLIP are automatically populated in data.wa.gov.au, with all available service endpoints (e.g. WMS, WFS, Downloads), and metadata (e.g. geospatial extent) being updated automatically each day.
 
-We strongly encourage all custodian with data in SLIP to update the metadata records for their data in data.wa.gov.au - **but require that you do not change the Title field of your dataset** without first coordinating the change of dataset name with the SLIP team.
+We strongly encourage all custodian with data in SLIP to update the metadata records for their data in data.wa.gov.au - **but require that you do not change the Title field of your dataset without first coordinating the change of dataset name with the SLIP team.**
 
 (The Title field is the unique attribute that data.wa.gov.au uses for each dataset it automatically harvests from SLIP, so changing the name in data.wa.gov.au without also changing it in SLIP would result in a disconnect between the two systems.)
 
