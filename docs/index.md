@@ -25,13 +25,15 @@ Landgate requires all new data custodians to get sign off from their organisatio
 
 We recommend that you do not use an individual’s email address for the main management account for your data.gov.au organisation. It is much better to use a shared inbox as it provides for continuity should the named data custodian change.
 
+    This is some code
+
 To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register](http://catalogue.beta.data.wa.gov.au/user/register) and complete the form on the page. Then email [opendata@landgate.wa.gov.au](mailto:opendata@landgate.wa.gov.au) with the following email to verify who you are and that you wish to be granted publishing privileges:
 
 > Dear Data.WA,
 >  
-> On behalf of the *<agency name>*, I request a data publishing account on data.wa.gov.au. *<agency name>* will be responsible for the management of this account and the data that is published using it. *<agency name>* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
+> On behalf of the *agency name*, I request a data publishing account on data.wa.gov.au. *agency name* will be responsible for the management of this account and the data that is published using it. *agency name* will notify the Open Data Team at Landgate as to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and Landgate take no responsibility.
 > 
-> I have registered the account name *<account name>* with email address *<email address>* on data.wa.gov.au and request access to the organisation(s) *<organisation name(s)>* to publish data and act as an administrator for my organisation.
+> I have registered the account name *account name* with email address *email address* on data.wa.gov.au and request access to the organisation(s) *organisation name(s)* to publish data and act as an administrator for my organisation.
 > 
 > I understand that Landgate intends to continue to provide data.wa.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, Landgate will give data publishers at least 2 months notice. Landgate will also provides documentation and minimal free technical support to data publishers.
 
@@ -49,7 +51,7 @@ If you would like to rename, remove, move your data within SLIP, please contact 
 ## A note for SPC Members
 If you are a member of the Western Australian Statistical Policy Committee (SPC) looking to publish metadata records for your data as part of the *SPC Metadata Project* you will find a step-by-step guide to publishing data in the section below.
 
-Further to this guide, we suggest that you include an *"spc"* tag in any metadata records you publish so as to aid discoverability.
+Further to this guide, we suggest that you include an **"spc"** tag in any metadata records you publish so as to aid discoverability.
 
 The second step detailed below - Add data - is the point at which you will be able to upload the Word, PDF, et cetera documents you prepared as part of the *SPC Metadata Project*.
 
@@ -61,29 +63,29 @@ Data.wa.gov.au already contains explanations of the fields you'll need to fill i
 * Browse to Datasets (top menu) 
 * Click **Add Dataset** (Remember you may have multiple files in the one dataset.) 
 * On the first page you’ll be asked to complete fields to describe your data (the metadata).
-  * **Title** (required): name of the dataset.
-  * **Description**: descriptive information about the dataset can also include further information or caveats pertaining to the data. * For formatting you can use [markdown](http://daringfireball.net/projects/markdown/syntax).
-  * **Tags**: some tags (or keywords) that describe your data.
-  * **License** (required): a dropdown of available licenses for data.wa.gov.au ([*Licensing Creative Commons is endorsed by WA Government and the recommended default under the Open Data Policy*](http://data.wa.gov.au/fact-sheets-and-toolkit/licensing-and-charging))
-  * **Organisation**: a dropdown of organisations you can publish to. Most users can only publish to a single organisation. This will be automatically filled in.
-  * **Visibility**: whether the dataset will be viewable to all users once complete. The default is private. 
-  * **Data Portal**: another website or resource that users may go to to discover more context and information about the dataset (e.g. The relevant page on your agency's website). If that does not apply, leave it blank.
-  * **Data Homepage:**: for datasets that exist in another catalogue (e.g. SLIP) this will be the access point for detailed catalogue-specific information about the dataset. If you're unsure, leave this blank.
-  * **DOI**: the Digital Object Identifier assigned to your dataset (if you have created one). More information about the DOI system [is availabe here](http://www.doi.org), and is more typically used in scientific disciplines and publishing. If you're unsure, leave this blank.
-  * **Citation**: the citation that users of the dataset should use in publications, articles, et cetera. If you're unsure, leave this blank. 
-  * **Author & Author Email**: the name and email address of the person who is primarily dataset for creating and maintaining the data.
-  * **Maintainer & Maintainer Email**: the name and email address of the person who is responsible for maintaining the dataset on data.wa.gov.au.
-  * **Theme**: the [AGIFT](http://agift.naa.gov.au) top level government function to which the dataset relates.
-  * **Language**: the language in which the dataset is published. The default is English.
-  * **Published On**: the date on which this dataset was, or shall be, published.
-  * **Data last updated on**: the date on which the data on data.wa.gov.au itself was last updated.
-  * **Update Frequency**:  how often the dataset is updated. Eg: Daily, Weekly, Never.
-  * **Temporal Coverage From / To** (required): the span of time from/to which the data is applicable. If the data applies only to a single point in time you should only fill in the Temporal Coverage From field.
-  * **Geospatial Coverage** (required): this is the physical area which the data covers. It is used to power the search functionality of data.wa.gov.au, so it does not need to be precise. It can be;
-    ** a rectangle/polygon drawn by-hand;
-    ** a pre-defined extent; or
-    ** a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolgon.
-    **  **NB**: Data sourced from SLIP will populate this field automatically.
+    * **Title** (required): name of the dataset.
+    * **Description**: descriptive information about the dataset can also include further information or caveats pertaining to the data. * For formatting you can use [markdown](http://daringfireball.net/projects/markdown/syntax).
+    * **Tags**: some tags (or keywords) that describe your data.
+    * **License** (required): a dropdown of available licenses for data.wa.gov.au ([*Licensing Creative Commons is endorsed by WA Government and the recommended default under the Open Data Policy*](http://data.wa.gov.au/fact-sheets-and-toolkit/licensing-and-charging))
+    * **Organisation**: a dropdown of organisations you can publish to. Most users can only publish to a single organisation. This will be automatically filled in.
+    * **Visibility**: whether the dataset will be viewable to all users once complete. The default is private. 
+    * **Data Portal**: another website or resource that users may go to to discover more context and information about the dataset (e.g. The relevant page on your agency's website). If that does not apply, leave it blank.
+    * **Data Homepage:**: for datasets that exist in another catalogue (e.g. SLIP) this will be the access point for detailed catalogue-specific information about the dataset. If you're unsure, leave this blank.
+    * **DOI**: the Digital Object Identifier assigned to your dataset (if you have created one). More information about the DOI system [is availabe here](http://www.doi.org), and is more typically used in scientific disciplines and publishing. If you're unsure, leave this blank.
+    * **Citation**: the citation that users of the dataset should use in publications, articles, et cetera. If you're unsure, leave this blank. 
+    * **Author & Author Email**: the name and email address of the person who is primarily dataset for creating and maintaining the data.
+    * **Maintainer & Maintainer Email**: the name and email address of the person who is responsible for maintaining the dataset on data.wa.gov.au.
+    * **Theme**: the [AGIFT](http://agift.naa.gov.au) top level government function to which the dataset relates.
+    * **Language**: the language in which the dataset is published. The default is English.
+    * **Published On**: the date on which this dataset was, or shall be, published.
+    * **Data last updated on**: the date on which the data on data.wa.gov.au itself was last updated.
+    * **Update Frequency**:    how often the dataset is updated. Eg: Daily, Weekly, Never.
+    * **Temporal Coverage From / To** (required): the span of time from/to which the data is applicable. If the data applies only to a single point in time you should only fill in the Temporal Coverage From field.
+    * **Geospatial Coverage** (required): this is the physical area which the data covers. It is used to power the search functionality of data.wa.gov.au, so it does not need to be precise. It can be;
+        ** a rectangle/polygon drawn by-hand;
+        ** a pre-defined extent; or
+        ** a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolgon.
+        **  **NB**: Data sourced from SLIP will populate this field automatically.
 * Click **Next: Add Data**
 * Click **Upload** and select the file, or link to a file, you wish to add to the dataset (e.g. the data itself, or any data dictionaries, metadata statements, et cetera you may have. See [Supportive documentation/context](#Supportive documentation/context). Add a description for this file and add the (likely) 3 letter file extension to the Format field.
   * You can add additional files to the dataset by clicking **Save and add another** and repeating the process. When finished adding resources click **Next: Additional Info**.
@@ -107,4 +109,4 @@ For information on updating an existing dataset, or uploading updated versions o
 
 
 ## Attribution
-With thanks to the Data.gov.au Team. Parts of this toolkit are based on [toolkit.data.gov.au]((https://toolkit.data.gov.au) under the Creative Commons Attribution 3.0 license.
+With thanks to the Data.gov.au Team. Parts of this toolkit are based on [toolkit.data.gov.au](https://toolkit.data.gov.au) under the Creative Commons Attribution 3.0 license.
