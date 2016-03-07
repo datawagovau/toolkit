@@ -35,13 +35,19 @@ To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register]
 
 
 ## A note for SLIP Publishers
-If you are a WA Government agency who currently publishes geospatial data through the [Shared Location Information Platform (SLIP)](http://slip.landgate.wa.gov.au) then you will not need to republish your data on data.wa.gov.au. All data published through SLIP are automatically populated in data.wa.gov.au, with all available service endpoints (e.g. WMS, WFS, Downloads), and metadata (e.g. geospatial extent) being updated automatically each day.
+WA Government agencies who currently publish their geospatial data through the [Shared Location Information Platform (SLIP)](http://slip.landgate.wa.gov.au) will not need to republish their data on data.wa.gov.au. The available service endpoints (e.g. WMS, WFS, Downloads), and geospatial extent, of datasets published through SLIP are automatically updated in data.wa.gov.au each day.
 
-We strongly encourage all custodian with data in SLIP to update the metadata records for their data in data.wa.gov.au - **but require that you do not change the Title field of your dataset without first coordinating the change of dataset name with the SLIP team.**
+All other aspects of datasets are however free to be managed and updated by custodians themselves via data.wa.gov.au, and we warmly welcome custodians who would wish to take direct control over maintaining their datasets.
 
-(The Title field is the unique attribute that data.wa.gov.au uses for each dataset it automatically harvests from SLIP, so changing the name in data.wa.gov.au without also changing it in SLIP would result in a disconnect between the two systems.)
+In doing so, however, please note that you will **still need to following the standard SLIP change process** if you:
 
-If you would like to rename, remove, move your data within SLIP, please contact [slipservices@landgate.wa.gov.au](mailto:slipservices@landgate.wa.gov.au) before taking any action (e.g. deleting a dataset, setting its visiblity to Private) in data.wa.gov.au so we can coordinate the process.
+1. Wish to remove or delete a dataset from data.wa.gov.au;
+2. Need to change the name of a dataset; or
+3. Would like to make a dataset private to hide it, or restrict access to it.
+
+Please contact [slipservices@landgate.wa.gov.au](mailto:slipservices@landgate.wa.gov.au) before taking any action in data.wa.gov.au so we can coordinate the process.
+
+**NB:** Please note that the "date data last updated" field is currently not automatically update from SLIP. We're currently examining how to achieve this in the new SLIP environment.
 
 
 ## A note for SPC Members
