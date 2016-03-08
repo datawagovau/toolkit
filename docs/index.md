@@ -45,7 +45,7 @@ In doing so, however, please note that you will **still need to following the st
 2. Need to change the name of a dataset; or
 3. Would like to make a dataset private to hide it, or restrict access to it.
 
-Please contact [slipservices@landgate.wa.gov.au](mailto:slipservices@landgate.wa.gov.au) before taking any action in data.wa.gov.au so we can coordinate the process.
+Please fill out and email a copy of the [SLIP Data Services Change Request form](https://www2.landgate.wa.gov.au/c/document_library/get_file?uuid=35f06296-a1a7-45b8-adb1-d69fe9ede72b&groupId=10136) to [customerservice@landgate.wa.gov.au](mailto:customerservice@landgate.wa.gov.au) before taking any action in data.wa.gov.au so we can coordinate the process.
 
 **NB:** Please note that the "date data last updated" field is currently not automatically update from SLIP. We're currently examining how to achieve this in the new SLIP environment.
 
