@@ -21,7 +21,7 @@ To publish government data you must register an account with a .wa.gov.au email 
 
 Landgate requires all new data custodians to get sign off from their organisation to before creating a publishing account. Landgate reviews publisher accounts periodically to ensure appropriate access to publish on data.wa.gov.au is maintained.
 
-We recommend that you do not use an individual’s email address for the main management account for your data.gov.au organisation. It is much better to use a shared inbox as it provides for continuity should the named data custodian change.
+We recommend that you do not use an individual’s email address for the main management account for your data.wa.gov.au organisation. It is much better to use a shared inbox as it provides for continuity should the named data custodian change.
 
 To create an account, go to [http://catalogue.beta.data.wa.gov.au/user/register](http://catalogue.beta.data.wa.gov.au/user/register) and complete the form on the page. Then email [opendata@landgate.wa.gov.au](mailto:opendata@landgate.wa.gov.au) with the following email to verify who you are and that you wish to be granted publishing privileges:
 
