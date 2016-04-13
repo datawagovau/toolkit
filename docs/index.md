@@ -39,15 +39,24 @@ WA Government agencies who currently publish their geospatial data through the [
 
 All other aspects of datasets are however free to be managed and updated by custodians themselves via data.wa.gov.au, and we warmly welcome custodians who would wish to take direct control over maintaining their datasets.
 
-In doing so, however, please note that you will **still need to following the standard SLIP change process** if you:
+### Change Process
+Please note that you will **still need to following the standard SLIP change process** if you:
 
 1. Wish to remove or delete a dataset from data.wa.gov.au;
 2. Need to change the name of a dataset; or
-3. Would like to make a dataset private to hide it, or restrict access to it.
+3. Would like to make a dataset private, or restrict access to it.
 
-Please fill out and email a copy of the [SLIP Data Services Change Request form](https://www2.landgate.wa.gov.au/c/document_library/get_file?uuid=35f06296-a1a7-45b8-adb1-d69fe9ede72b&groupId=10136) to [customerservice@landgate.wa.gov.au](mailto:customerservice@landgate.wa.gov.au) before taking any action in data.wa.gov.au so we can coordinate the process.
+Simply fill out and email a copy of the [SLIP Data Services Change Request form](https://www2.landgate.wa.gov.au/c/document_library/get_file?uuid=35f06296-a1a7-45b8-adb1-d69fe9ede72b&groupId=10136) to [customerservice@landgate.wa.gov.au](mailto:customerservice@landgate.wa.gov.au) before taking any action in data.wa.gov.au so we can coordinate the process.
 
-**NB:** Please note that the "date data last updated" field is currently not automatically update from SLIP. We're currently examining how to achieve this in the new SLIP environment.
+### Updating Dataset Descriptions
+Unfortunately there is currently no automatic process to copy changes made to descriptions of datasets on data.wa.gov.au back to SLIP. How we achieve this is being considered as part of the broader work the SLIP team is undertaking around automating more of the management, publishing, and updating of the new SLIP system.
+
+Until that work is completed the process will remain a manual one. For the time being we ask that if you have updated the description of a dataset in data.wa.gov.au, and wish it to be reflected in SLIP, that you get in touch with us at [opendata@landgate.wa.gov.au](mailto:opendata@landgate.wa.gov.au).
+
+### Data Last Updated On Information
+Please note that the "Data last updated on" date is currently not automatically update from SLIP. We're currently examining how to achieve this in the new SLIP environment.
+
+![Screenshot of the "Data last updated on" field from a data.wa.gov.au dataset](imgs/data-last-updated-on-date-example.png)
 
 
 ## A note for SPC Members
