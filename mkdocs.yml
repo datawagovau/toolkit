@@ -1,7 +1,7 @@
 site_name: Data.wa.gov.au Toolkit
 pages:
     - [index.md, Home, Data.wa.gov.au Toolkit]
-    - [bigdataweek-workshop.md, BigDataWeek 2016, Workshop Pack]
+    - [bigdataweek-workshop.md, Big Data Week 2016, Workshop Pack]
     # - [dto.md, Home, DTO Digital Service Standard]
     # - [splunk.md, Home, Splunk]
     # - [hp-helion.md, Home, HP Helion]
