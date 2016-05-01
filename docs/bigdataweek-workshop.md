@@ -10,9 +10,7 @@ Nearly 1,000 datasets from some 40 WA public sector agencies are now shared with
 
 That’s where you come in.
 
-# The Workshop
-Throughout this workshop we'll be utilising material from the UK's [Open Data Institute](http://theodi.org/), the world's leading independent, non-profit open data training and development organisation.
-
+# Preparing for the workshop
 ## Pre-reading
 Before attending the workshop we suggest you familiarise yourself with Western Australia's Open Data Policy and its supporting material. Further information, and links to all of these documents are available at [data.wa.gov.au](http://data.wa.gov.au).
 
@@ -26,12 +24,14 @@ We'll supply notepads, pens, good coffee, morning tea, and a friendly atmosphere
 ### BYOD (Bring Your Own Device)
 While we will work through the workshop live on the big screen for the benefit of all attendees this has been designed to be a hands-on workshop,so you'll get the most out of it if you bring your own device. Both tablets and laptops would be suitable.
 
-WiFI will be available for attendees. 
+WiFi will be available for attendees. 
 
 ### BYOD (Bring Your Own Data)
 Got some data you would like to publish, but not sure about the best approach? We'll have some time to sit down and talk through it with you, so bring it along on the day.
 
 # Workshop Outline
+Throughout this workshop we'll be utilising material from the UK's [Open Data Institute](http://theodi.org/), the world's leading independent, non-profit open data training and development organisation.
+
 ## Introduction
 *5 minutes*
 
@@ -77,7 +77,7 @@ In this module we'll explore:
 
 In this module we'll get our hands dirty and publish a new dataset to data.wa.gov.au.
 
-If you've brought data of your own to publish, go ahead and follow the prompts in [Preparing the data](##Preparing the data) and [Publishing the data](#Publishing the data).
+If you've brought data of your own to publish, go ahead and follow the prompts in [Preparing the data](Preparing the data) and [Publishing the data](Publishing the data).
 
 If you'd instead like to work with our example dataset, then we'll be using the State Library's [Western Australia Public Library Network](https://raw.githubusercontent.com/datawagovau/toolkit/master/docs/workshops/example-data/libraries20150603.csv) dataset.
 
@@ -97,13 +97,13 @@ In working through this checklist you may find it handy to refer to our quick vi
 ### Publishing the data
 1. Login to [data.wa.gov.au](http://catalogue.beta.data.wa.gov.au/user/login) using the credentials provided for the workshop.
 2. Step through our [Publishing Data on Data.wa.gov.au Guide](http://toolkit.data.wa.gov.au/#publishing-data).
-  1. Fill out all of the relevant fields on the *Create dataset* screen.
-  2. *Upload* your data on the *Add data* screen and click **Save & add another**.
-  3. Add a *link* to the State Library's [Guide to Public Libraries](http://slwa.wa.gov.au/find/guide_to_public_libraries).
-  4. Click **Finish**.
+  - Fill out all of the relevant fields on the *Create dataset* screen.
+  - *Upload* your data on the *Add data* screen and click **Save & add another**.
+  - Add a *link* to the State Library's [Guide to Public Libraries](http://slwa.wa.gov.au/find/guide_to_public_libraries).
+  - Click **Finish**.
 3. Publish!
 
-Congratulations, you've published your first dataset!
+**Congratulations, you've just published your first dataset!**
 
 ## Questions and open discussion
 *10 minutes*
@@ -114,7 +114,7 @@ We've kept some time free at the end to allow time for questions and open discus
 If time allows we'll run through a short thought exercise focussing on how we could improve our example dataset.
 
 ## Acknowledgement
-[Learning open data](http://www.europeandataportal.eu/elearning/en/) is a series of online training courses created by the Open Data Institute licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+[*Learning open data*](http://www.europeandataportal.eu/elearning/en/) is a series of online training courses created by the Open Data Institute licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
 No changes were made to the material used in this workshop.
 
@@ -127,4 +127,4 @@ No changes were made to the material used in this workshop.
 ## Our Next Workshop
 We're looking to run workshops like these approximately once a month, or as there is demand. There are 10 other modules in the course, and several areas where we're looking to add new modules (e.g. An in-depth workshop on cleaning data, How to work out what data people want, et cetera).
 
-If you would like to take part in a future workshop, or have ideas for a new module, please let your presenters know or contact the [Open Data Team](mailto:opendata@landgate.wa.gov.au?Subject=Open%20Data%20Workshop).
+If you would like to take part in a future workshop, or have ideas for a new module, please let your presenters know or contact the [Open Data Team](mailto:opendata@landgate.wa.gov.au?Subject=Open%20Data%20Workshop%20Series).
