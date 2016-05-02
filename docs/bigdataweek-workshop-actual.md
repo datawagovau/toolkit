@@ -12,7 +12,7 @@ Throughout this workshop we'll be utilising material from the UK's [Open Data In
 Welcome to the workshop and introductions.
 
 ## What is open data?
-*15 minutes*
+*5 minutes*
 
 In this module we’ll explore:
 
