@@ -11,6 +11,8 @@ Nearly 1,000 datasets from some 40 WA public sector agencies are now shared with
 That’s where you come in.
 
 # Preparing for the workshop
+**While parts of this workshop are broadly relevant to a general audience this workshop is primarily intended for pubic servants who will be publishers of government data.**
+
 ## Pre-reading
 Before attending the workshop we suggest you familiarise yourself with Western Australia's Open Data Policy and its supporting material. Further information, and links to all of these documents are available at [data.wa.gov.au](http://data.wa.gov.au).
 
