@@ -36,7 +36,7 @@ Got some data you would like to publish, but not sure about the best approach? W
 Welcome to the workshop and introductions.
 
 ## What is open data?
-*15 minutes*
+*5 minutes*
 
 In this module we’ll explore:
 
