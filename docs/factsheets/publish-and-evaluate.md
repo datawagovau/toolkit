@@ -12,3 +12,5 @@ The lead agency for implementation (Landgate) will provide further information a
 
 >Refer to Appendix A of the Western Australian Whole of Government Open Data Policy for the definitions of terms used
 throughout (indicated in italics).
+
+---
