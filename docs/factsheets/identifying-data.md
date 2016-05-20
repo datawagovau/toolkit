@@ -4,13 +4,16 @@ The public sector creates, collects and manages a range of datai
 in the course of its everyday operations,
 including through administration, delivering and monitoring programs and services, and research. Agencies
 should review their data assets, considering:
+
 * __Existing data (current and historical data):__ Some of this data may already be made available to
 the public, for example on the agency’s website, in annual reports and publications, and in
 databases.
+
 * __Future data collection and creation (new data):__ This may include upcoming or future programs,
 projects, services, reports and other initiatives. Agencies should consider and apply the Policy to
 the development of systems that collect or create data, and any modernisation projects that
 update existing data systems.
+
 * __Data collected by the agency’s contractors, consultants and grant recipients:__ Agencies should
 consider including provisions surrounding the collection of data, consistent with the principles
 of the Policy, in their contracts and agreements with contractors, consultants and grant
@@ -22,10 +25,12 @@ release to the public. However, there are instances where data is not appropriat
 and, thus, access should be restricted or precluded (outlined in Step 1.3).
 From an implementation perspective, the focus is high-value data. That is, where there is some value,
 outcome or benefit for the State from opening access to that data. This includes:
+
 * __Potential value and outcomes for government –__ including reduced silos and improved
 collaboration, better decision-making, new and improved solutions and services, and
 efficiencies and savings (including reduced duplication and tools and service delivery more
 quickly and at lower costs); and
+
 * __Potential value and outcomes for industry and the community –__ including supporting the
 development of new industries and business (and jobs), increased entrepreneurship and
 productivity, improved research outcomes, and better business and community decision
@@ -37,8 +42,11 @@ and determine priorities for release.
 
 In the first instance, agencies should improve the discoverability and usability of existing datasets,
 prioritising those that:
+
 * __are already publically available,__ for example on the agency website or in public reports;
+
 * __are considered high-value__ (as outlined above); and/or
+
 * __are in high demand by the public –__ front-line helpdesk requests, Freedom of Information
 (FOI) logs, and feedback and engagement with the public are useful ways of gauging this.
 
