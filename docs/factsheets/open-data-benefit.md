@@ -31,6 +31,7 @@ the potential applications of open public sector data.
 
 ## Case studies
 __Transport for NSW: reducing the cost of delivering Government services__
+
 The New South Wales Government has equipped Sydney buses, trains, and ferries
 with GPS technology that provide an open, real-time data stream. To promote the
 release and increase public engagement, Transport for NSW ran a competition to
@@ -41,6 +42,7 @@ greatly improve customer service, and are able to rapidly change and develop in
 response to consumer needs.
 
 __The UK Open Source Innovation Lab and GovHack Perth: new and creative uses of data__
+
 The UK’s Open Source Innovation Lab used the Ordinance Survey (the UK’s national
 mapping authority) open data to build a detailed map of Great Britain in the worldbuilding
 game, Minecraft. The map is freely available to the game’s 33 million users –
@@ -55,6 +57,7 @@ games and tools and even invent a new approach to combining and sharing datasets
 across different agencies.
 
 __theyvoteforyou.org: a not-for-profit uses Parliamentary data to drive transparency__
+
 The website theyvoteforyou.org, built by the OpenAustralia Foundation, uses open data
 from Federal Parliament to give Australians real-time information about how their
 Members of Parliament vote on various issues. Citizens can search by their postcode
@@ -64,6 +67,7 @@ reports their attendance, and shows how often (and on what issues) an MP votes
 against their party’s policy.
 
 __Sense-T: cross-sector collaboration, innovation, and better decision-making__
+
 The Sense-T resource management initiative in Tasmania brings together government,
 the University of Tasmania, CSIRO, and IBM to develop tools for the agriculture sector.
 Together, they have established a state-wide sensor network that collects real-time
@@ -73,6 +77,7 @@ choices about food, water management, and resource planning. Along with forecast
 Sense-T’s platform.
 
 __Public sector efficiency: making it easier for public servants to do their jobs well__
+
 Every day, Western Australian Government employees spend time transcribing data
 from PDF documents, recalculating and reformatting information, and trying to track
 down the right people in another agency to make a data request. Often basic data is
