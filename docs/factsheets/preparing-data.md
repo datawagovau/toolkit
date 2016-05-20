@@ -53,5 +53,7 @@ data; and
 Data should be as up-to-date as possible and made available to users in a timely manner. As data is
 updated, agencies should aim to make it available as soon possible, or on a consistent, periodic basis.
 
+---
+
 >Refer to Appendix A of the Western Australian Whole of Government Open Data Policy for the definitions of terms used
 throughout (indicated in italics).
