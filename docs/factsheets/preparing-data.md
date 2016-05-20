@@ -44,7 +44,7 @@ Data should be published with:
 any caveats or limitations with regard to the dataset. This will better enable users to decide
 whether a dataset is suitable for their purposes. 
 
-Resources:
+__Resources:__
 * the [ABS Data Quality Statement Tool](https://www.nss.gov.au/dataquality/index.jsp) which helps with assessing and reporting on the quality of
 data; and
 * the [Australian Government Open Data Toolkit – How to use data.gov.au – Metadata](https://toolkit.data.gov.au/index.php?title=How_to_use_data.gov.au#Metadata)
