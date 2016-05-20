@@ -95,3 +95,5 @@ those considerations outweigh the public interest considerations in favour of di
 Agencies should also consider their own specific legislative provisions relating to the release of data and
 information. 
 
+>Refer to Appendix A of the Western Australian Whole of Government Open Data Policy for the definitions of terms used
+throughout (indicated in italics).
