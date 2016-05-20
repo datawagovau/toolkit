@@ -81,7 +81,7 @@ analysis and programming techniques.
 You can read more about CSV files on Wikipedia’s guide to the [basic rules and
 examples of CSV files.](https://en.wikipedia.org/wiki/Comma-separated_values#Basic_rules_and_examples)
 
-##Checking the quality of your data
+###Checking the quality of your data
 Before uploading your data to data.wa.gov.au it is good practice to run a final check
 over it to validate that it contains good quality machine-readable data (eg numeric
 columns only contain numbers, the date formatting is consistent, etc).
