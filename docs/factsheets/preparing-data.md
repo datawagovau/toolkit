@@ -48,3 +48,7 @@ __Resources:__
 * the [ABS Data Quality Statement Tool](https://www.nss.gov.au/dataquality/index.jsp) which helps with assessing and reporting on the quality of
 data; and
 * the [Australian Government Open Data Toolkit – How to use data.gov.au – Metadata](https://toolkit.data.gov.au/index.php?title=How_to_use_data.gov.au#Metadata)
+
+## How often (i.e. frequency) should I publish data?
+Data should be as up-to-date as possible and made available to users in a timely manner. As data is
+updated, agencies should aim to make it available as soon possible, or on a consistent periodic basis.
