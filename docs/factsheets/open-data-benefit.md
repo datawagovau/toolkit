@@ -41,6 +41,7 @@ These community-driven services were developed at minimal cost to the Government
 greatly improve customer service, and are able to rapidly change and develop in
 response to consumer needs.
 
+
 __The UK Open Source Innovation Lab and GovHack Perth: new and creative uses of data__
 
 The UK’s Open Source Innovation Lab used the Ordinance Survey (the UK’s national
@@ -56,6 +57,7 @@ allowed teams to map, model and analyse Perth’s crime and traffic, create educ
 games and tools and even invent a new approach to combining and sharing datasets
 across different agencies.
 
+
 __theyvoteforyou.org: a not-for-profit uses Parliamentary data to drive transparency__
 
 The website theyvoteforyou.org, built by the OpenAustralia Foundation, uses open data
@@ -66,6 +68,7 @@ informatively, it also bundles similar issues to let users assess an MP’s gene
 reports their attendance, and shows how often (and on what issues) an MP votes
 against their party’s policy.
 
+
 __Sense-T: cross-sector collaboration, innovation, and better decision-making__
 
 The Sense-T resource management initiative in Tasmania brings together government,
@@ -75,6 +78,7 @@ information data on crops, livestock, water, weather, and even farm equipment. T
 information allows consumers, farmers, and Government to make more informed
 choices about food, water management, and resource planning. Along with forecasts, the real-time information will be released with an API (Application Programming Interface) that allows entrepreneurs to develop tools and apps using
 Sense-T’s platform.
+
 
 __Public sector efficiency: making it easier for public servants to do their jobs well__
 
