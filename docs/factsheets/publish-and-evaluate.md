@@ -7,3 +7,6 @@ Agencies should also assess their progress towards *open data maturity* and moni
 of implementing the open data policy.
 
 The lead agency for implementation (Landgate) will provide further information and assistance to agencies.
+
+>Refer to Appendix A of the Western Australian Whole of Government Open Data Policy for the definitions of terms used
+throughout (indicated in italics).
