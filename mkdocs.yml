@@ -4,6 +4,7 @@ pages:
     - [bigdataweek-workshop.md, Big Data Week 2016, Workshop Prep Pack]
     - [bigdataweek-workshop-actual.md, Big Data Week 2016, Workshop]
     - [factsheets/identifying-data.md, Fact Sheets, Identifying Data] 
+    - [factsheets/preparing-data.md, Fact Sheets, Preparing Data]
     # - [dto.md, Home, DTO Digital Service Standard]
     # - [splunk.md, Home, Splunk]
     # - [hp-helion.md, Home, HP Helion]
