@@ -51,4 +51,4 @@ data; and
 
 ## How often (i.e. frequency) should I publish data?
 Data should be as up-to-date as possible and made available to users in a timely manner. As data is
-updated, agencies should aim to make it available as soon possible, or on a consistent periodic basis.
+updated, agencies should aim to make it available as soon possible, or on a consistent, periodic basis.
