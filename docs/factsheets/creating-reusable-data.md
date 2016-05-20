@@ -1,4 +1,4 @@
-# Creating reusable machine-readable data
+# Creating reusable data
 This fact sheet provides guidance to agencies on releasing data in formats that are
 machine-readable and allow for easy reuse under the WA Whole of Government
 Open Data Policy.
