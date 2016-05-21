@@ -8,6 +8,7 @@ pages:
     - [factsheets/publish-and-evaluate.md, Fact Sheets, Publishing Data and Evaluation]
     - [factsheets/open-data-benefit.md, Fact Sheets, "Open Data: Where's The Benefit?"]
     - [factsheets/creating-reusable-data.md, Fact Sheets, Creating Reusable Data]
+    - [ckan/showcases.md, Platform, Showcasing Data]
     # - [dto.md, Home, DTO Digital Service Standard]
     # - [splunk.md, Home, Splunk]
     # - [hp-helion.md, Home, HP Helion]
