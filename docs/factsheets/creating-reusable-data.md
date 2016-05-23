@@ -112,7 +112,7 @@ making the data accessible via the data.wa.gov.au portal, and licensed in a way 
 promotes dissemination and reuse of the data (eg one of the licences under the
 Creative Commons licensing framework).
 
-[star-yellow]: (/imgs/star-yellow.png) "Yellow Star"
+[star-yellow]: /imgs/Star-yellow.png "Yellow Star"
 
 ![Yellow Star][star-yellow]
 
