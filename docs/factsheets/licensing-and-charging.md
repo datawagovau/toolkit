@@ -95,7 +95,7 @@ Other strategies, policies, and advice that may be considered in conjunction wit
 fact sheet include:
 
 * [Creative Commons Australia](http://creativecommons.org.au/)
-* [WA Government Intellectual Property Policy and Best Practice Guidelines](https://www.commerce.wa.gov.au/sites/default/files/atoms/files/wa_govt_ip_policy_and_best_practice_guidelines.pdf)
+* [WA Government Intellectual Property Policy and Best Practice Guidelines](http://www.commerce.wa.gov.au/industry-and-innovation/government-intellectual-property-0)
 * [Privacy Act 1988 (Commonwealth)](https://www.legislation.gov.au/Series/C2004A03712)
 * [State Records Act 2000](https://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_924_homepage.html)
 * [Industry and Technology Development Act 2006](https://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_448_homepage.html)
