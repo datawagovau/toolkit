@@ -38,7 +38,8 @@ __Other resources:__
 
 ## How do I make the data easy to understand?
 Data should be published with:
-* __metadata__ to better enable users to understand the data and how best to use it; and
+
+* __*metadata*__ to better enable users to understand the data and how best to use it; and
 
 * __a statement regarding the data’s purpose and *quality*__, including sufficient information about
 any caveats or limitations with regard to the dataset. This will better enable users to decide
