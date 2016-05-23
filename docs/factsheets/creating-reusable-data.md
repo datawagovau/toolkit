@@ -113,6 +113,7 @@ promotes dissemination and reuse of the data (eg one of the licences under the
 Creative Commons licensing framework).
 
 __5-Star Deployment Scheme for Open Data__
+
 |<img src="/imgs/Star-yellow.png" width="30"><img src="/imgs/Star-grey.png" width="30"><img src="/imgs/Star-grey.png" width="30"> <img src="/imgs/Star-grey.png" width="30"> <img src="/imgs/Star-grey.png" width="30">          |
 |---------------------------------------------------- |
 |                                                     |
