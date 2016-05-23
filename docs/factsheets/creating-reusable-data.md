@@ -114,11 +114,10 @@ Creative Commons licensing framework).
 
 __5-Star Deployment Scheme for Open Data__
 
-|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">|
-|---------------------------------------------------- |
-|                                                     |
-
-
-
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px">||
 
 Excerpt from ict.gov.nz’s [Guide to the 5 Star Open Data Model](https://www.ict.govt.nz/guidance-and-resources/open-government/toolkit-agencies/applying-5-star-open-data-model-your-high-value-pu/) licensed under [CC BY 3.0 N](http://creativecommons.org/licenses/by/3.0/nz/)
