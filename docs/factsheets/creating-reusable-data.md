@@ -112,6 +112,8 @@ making the data accessible via the data.wa.gov.au portal, and licensed in a way 
 promotes dissemination and reuse of the data (eg one of the licences under the
 Creative Commons licensing framework).
 
-![Diagram showing 5 star deployment scheme for open data. Refer to link below for more information.](/imgs/5-star-open-data-diagram.PNG "5 Star Deployment Scheme for Open Data")
+[star-yellow]: (/imgs/star-yellow.png) "Yellow Star"
+
+![Yellow Star][star-yellow]
 
 Excerpt from ict.gov.nz’s [Guide to the 5 Star Open Data Model](https://www.ict.govt.nz/guidance-and-resources/open-government/toolkit-agencies/applying-5-star-open-data-model-your-high-value-pu/) licensed under [CC BY 3.0 N](http://creativecommons.org/licenses/by/3.0/nz/)
