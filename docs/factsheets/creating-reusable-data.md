@@ -112,8 +112,8 @@ making the data accessible via the data.wa.gov.au portal, and licensed in a way 
 promotes dissemination and reuse of the data (eg one of the licences under the
 Creative Commons licensing framework).
 
-|__5-Star Deployment Scheme for Open Data__|
-| --- |
+|__5-Star Deployment Scheme for Open Data__||
+| --- ||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
