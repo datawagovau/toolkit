@@ -114,8 +114,7 @@ Creative Commons licensing framework).
 
 |__5-Star Deployment Scheme for Open Data__||
 | --- ||
-|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">| __Step 1: Put your data on the web with an open licence__ 
-An open licence means that people can easily understand the terms under which your data is available for re-use. |
+|<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">| __Step 1: Put your data on the web with an open licence__ An open licence means that people can easily understand the terms under which your data is available for re-use. |
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">||
