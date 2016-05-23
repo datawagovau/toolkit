@@ -113,7 +113,7 @@ promotes dissemination and reuse of the data (eg one of the licences under the
 Creative Commons licensing framework).
 
 |__5-Star Deployment Scheme for Open Data__||
-| :---: ||
+|:---:||
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">| __Step 1: Put your data on the web with an open licence__<br>An open licence means that people can easily understand the terms under which your data is available for re-use. |
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">| __Step 2: Make it available as structured data__<br>For example, an Excel spreadsheet is more useable than a scan of a table in a PDF/DOC, and saves users from manually entering your data into their spreadsheet. |
 |<img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-yellow.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px"><img src="/imgs/Star-grey.png" style=" width:30px">| __Step 3: Use open, standard formats__<br>Non-proprietary formats can be accessed by any software - for example, you can save an Excel file as a CSV file, which is an open format. |
