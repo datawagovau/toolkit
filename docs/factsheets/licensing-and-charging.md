@@ -46,3 +46,58 @@ Commons Australia:
 | __Attribution-NonCommercial__<br><br> [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | <img src="/imgs/CC-BY-NC.png" style=" width:300px"> | This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms. |
 | __Attribution-NonCommercial-ShareAlike__<br><br> [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | <img src="/imgs/CC-BY-NC-SA.png" style=" width:300px"> | This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. |
 | __Attribution-NonCommercial-NoDerivs__<br><br> [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) | <img src="/imgs/CC-BY-NC-ND.png" style=" width:300px"> | This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially. |
+
+__Source:__ [Creative Commons Australia](https://creativecommons.org/licenses/)
+
+###Which Creative Commons license should I use?
+Agencies wishing to explore the full range of Creative Commons licenses should utilise the [Creative Commons Australia License Chooser and the Creative Commons Licensing Flowchart](http://creativecommons.org.au/content/licensing-flowchart.pdf).
+
+Consult the fact sheets page of the Creative Commons Australia website for further indepth
+information on the use of Creative Commons.
+
+###Creative Commons as the default for your agency
+Custodians who wish to adopt Creative Commons as the default licensing framework
+across their entire agency and who have further questions around the framework may
+wish to seek appropriate advice before doing so.
+
+##Other licensing options
+There may be instances where agencies are required to set out special copyright
+arrangements. Examples of this include where legislation stipulates a particular
+copyright position, or a more restrictive licence to those provided under Creative
+Commons is required.
+
+Agencies should examine their own requirements prior to publishing data including
+consideration of the overheads inherent in implementing and policing customised
+licensing regimes, as opposed to the use of standardised licences available under
+Creative Commons.
+
+##Intellectual property
+Data may have inherent intellectual property and deliver more value and better
+outcomes for the State when access to the data is managed appropriately. Agencies
+should consider the [Western Australian Government Intellectual Property Policy 2015](http://innovation.wa.gov.au/wp-content/uploads/2015/03/WA-Government-IP-Policy-2015-final.pdf)
+which provides guidance on the development, management and use of intellectual
+property assets, including data.
+
+##Charging for data
+The policy urges agencies to make their data readily available at zero cost, where
+possible, to ensure the full value of the State’s data assets are being realised. However
+it is acknowledged that in some cases it is appropriate for charges to be applied. For
+example, some agencies have legislation that stipulates how and when they are
+required to apply charges for the supply of data.
+
+The complexities of attaching a fair and equitable price to government data is beyond
+the scope of the policy, and it is recommended that agencies giving consideration to
+charging for data, or who have further questions, should contact the policy lead agency,
+Landgate, or Treasury for advice.
+
+##Related guidelines and policies
+Other strategies, policies, and advice that may be considered in conjunction with this
+fact sheet include:
+
+* [Creative Commons Australia](http://creativecommons.org.au/)
+* [WA Government Intellectual Property Policy and Best Practice Guidelines](https://www.commerce.wa.gov.au/sites/default/files/atoms/files/wa_govt_ip_policy_and_best_practice_guidelines.pdf)
+* [Privacy Act 1988 (Commonwealth)](https://www.legislation.gov.au/Series/C2004A03712)
+* [State Records Act 2000](https://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_924_homepage.html)
+* [Industry and Technology Development Act 2006](https://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_448_homepage.html)
+* [WA Government Statement on Competitive Neutrality 1996](http://www.finance.wa.gov.au/cms/uploadedFiles/Economic_Reform/policy-on-competitive-neutrality.pdf)
+* [WA Government Costing and Pricing Guidelines](http://www.treasury.wa.gov.au/Treasury/Publications/Costing_and_Pricing_Guidelines/)
