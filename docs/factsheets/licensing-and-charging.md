@@ -40,4 +40,4 @@ Commons Australia:
 
 | __Licence__ | __Badges__ | __Description__ |
 |:---:|:---:|---|
-| __Attribution__<br><br> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | <img src="/imgs/CC-BY.png.png" style=" width:40px"> | This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered |
+| __Attribution__<br><br> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | <img src="/imgs/CC-BY.png" style=" width:40px"> | This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered |
