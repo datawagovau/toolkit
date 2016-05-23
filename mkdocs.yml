@@ -9,6 +9,7 @@ pages:
     - [factsheets/open-data-benefit.md, Fact Sheets, "Open Data: Where's The Benefit?"]
     - [factsheets/creating-reusable-data.md, Fact Sheets, Creating Reusable Data]
     - [ckan/showcases.md, Platform, Showcasing Data]
+    - [factsheets/licensing-and-charging.md, Fact Sheets, Licensing and Charging Considerations]
     # - [dto.md, Home, DTO Digital Service Standard]
     # - [splunk.md, Home, Splunk]
     # - [hp-helion.md, Home, HP Helion]
