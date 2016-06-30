@@ -8,6 +8,3 @@ More information about showcases can be found on our Open Data Toolkit.
 
 
 Showcase and link to datasets in use. Datasets used in an app, website or visualization, or featured in an article, report or blog post can be showcased within the CKAN website. Showcases can include an image, description, tags and external link. Showcases may contain several datasets, helping users discover related datasets being used together. Showcases can be discovered by searching and filtered by tag.
-
--> Comms
--> Data Requests
