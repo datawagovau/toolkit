@@ -81,8 +81,8 @@ Data.wa.gov.au already contains explanations of the fields you'll need to fill i
     * **Organisation**: a dropdown of organisations you can publish to. Most users can only publish to a single organisation. This will be automatically filled in.
     * **Visibility**: whether the dataset will be viewable to all users once complete. The default is private. 
     * **Data Portal**: another website or resource that users may go to to discover more context and information about the dataset (e.g. The relevant page on your agency's website). If that does not apply, leave it blank.
-    * **Data Homepage:**: for datasets that exist in another catalogue (e.g. SLIP) this will be the access point for detailed catalogue-specific information about the dataset. If you're unsure, leave this blank.
-    * **DOI**: the Digital Object Identifier assigned to your dataset (if you have created one). More information about the DOI system [is availabe here](http://www.doi.org), and is more typically used in scientific disciplines and publishing. If you're unsure, leave this blank.
+    * **Data Homepage:** for datasets that exist in another catalogue (e.g. SLIP) this will be the access point for detailed catalogue-specific information about the dataset. If you're unsure, leave this blank.
+    * **DOI**: the Digital Object Identifier assigned to your dataset (if you have created one). More information about the DOI system [is available here](http://www.doi.org), and is more typically used in scientific disciplines and publishing. If you're unsure, leave this blank.
     * **Citation**: the citation that users of the dataset should use in publications, articles, et cetera. If you're unsure, leave this blank. 
     * **Author & Author Email**: the name and email address of the person who is primarily dataset for creating and maintaining the data.
     * **Maintainer & Maintainer Email**: the name and email address of the person who is responsible for maintaining the dataset on data.wa.gov.au.
@@ -95,7 +95,7 @@ Data.wa.gov.au already contains explanations of the fields you'll need to fill i
     * **Geospatial Coverage** (required): this is the physical area which the data covers. It is used to power the search functionality of data.wa.gov.au, so it does not need to be precise. It can be;
         * a rectangle/polygon drawn by-hand;
         * a pre-defined extent; or
-        * a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolgon.
+        * a [GeoJSON](http://geojson.org) formatted Polygon/MultiPolygon.
         * **NB**: Data sourced from SLIP will populate this field automatically.
 * Click **Next: Add Data**
 * Click **Upload** and select the file, or link to a file, you wish to add to the dataset (e.g. the data itself, or any data dictionaries, metadata statements, et cetera you may have. See [Supportive documentation/context](#Supportive documentation/context). Add a description for this file and add the (likely) 3 letter file extension to the Format field.
@@ -103,7 +103,7 @@ Data.wa.gov.au already contains explanations of the fields you'll need to fill i
 * Click the **Finish** button.
 
 ### Supportive documentation/context
-Publish any supportive documentation, caveats, user restrictions, and contextual information in the text of the descriptive information about the data set. If the information is extensive it can also be uploaded as a an additional resource to the dataset.
+Publish any supportive documentation, caveats, user restrictions, and contextual information in the text of the descriptive information about the data set. If the information is extensive it can also be uploaded as an additional resource to the dataset.
 
 Please do not put the data into the documentation itself, as it means the platform will treat it as just another file like a PDF rather than as a data file. This means the data is inaccessible to users and no API or data visualisation will be available for your dataset.
 
