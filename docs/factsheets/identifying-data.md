@@ -1,6 +1,6 @@
 #Identifying data for release
 ##What data does my agency collect and manage?
-The public sector creates, collects and manages a range of datai
+The public sector creates, collects and manages a range of data
 in the course of its everyday operations,
 including through administration, delivering and monitoring programs and services, and research. Agencies
 should review their data assets, considering:
