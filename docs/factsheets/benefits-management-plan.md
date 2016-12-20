@@ -40,22 +40,22 @@ It is anticipated that the data collected will be staggered so not to overwhelm 
 
 Actions and measures:
 * Increase use by government agencies of data to improve effectiveness and/or efficiency
-  *Case studies from agencies publishing to data.wa.gov.au on cost/time savings of not needing a separate platform
-  *Tally and rank metadata from publishers able to add estimated net cost or costs savings (time, money) into the metadata attached to their datasets when publishing
-  *Case studies from agencies using government data and impact
-  *Increase in the number of agencies using open government data
-  *Number of Government agencies accessing data based on Government IP addresses
+  * Case studies from agencies publishing to data.wa.gov.au on cost/time savings of not needing a separate platform
+  * Tally and rank metadata from publishers able to add estimated net cost or costs savings (time, money) into the metadata attached to their datasets when publishing
+  * Case studies from agencies using government data and impact
+  * Increase in the number of agencies using open government data
+  * Number of Government agencies accessing data based on Government IP addresses
   
 ###Facilitate innovation outside of government to help solve community problems
 
 Actions and measures:
-*Make data discoverable to the public
-  *Number of data requests made by users via data.wa.gov.au feedback mechanism
-  *Y/N – data.wa.gov.au contains datasets released through Freedom of Information (FOI) (excluding personal information related FOI)
-  *Percentage of agency datasets that meet top level metadata standards (working URLs, file format matches preferred formats, machine-readable)
-*Prevent inappropriate disclosure of sensitive information
-  *Agencies have privacy review processes required prior to releasing data
-*Assign roles and responsibilities to strengthen culture of data management
-  *Y/N there is a single position assigned final responsibility for data management and release for each agency that is part of data.wa.gov.au
-  *Percentage of agencies that publicly assign points of contact for open data issues
-  *Government agencies views on their data awareness and open data processes
+* Make data discoverable to the public
+  * Number of data requests made by users via data.wa.gov.au feedback mechanism
+  * Y/N – data.wa.gov.au contains datasets released through Freedom of Information (FOI) (excluding personal information related FOI)
+  * Percentage of agency datasets that meet top level metadata standards (working URLs, file format matches preferred formats, machine-readable)
+* Prevent inappropriate disclosure of sensitive information
+  * Agencies have privacy review processes required prior to releasing data
+* Assign roles and responsibilities to strengthen culture of data management
+  * Y/N there is a single position assigned final responsibility for data management and release for each agency that is part of data.wa.gov.au
+  * Percentage of agencies that publicly assign points of contact for open data issues
+  * Government agencies views on their data awareness and open data processes
