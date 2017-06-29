@@ -1,5 +1,9 @@
 # Data.wa.gov.au Toolkit
 
+<b>test</b>
+<script>console.log("test")</script>
+<script type="text/javascript">console.log("test")</script>
+
 ## Introduction
 Data.wa.gov.au simplifies access to Western Australian Government data by enabling anyone to discover data in one place, and is backed by a data infrastructure that facilitates the easy publishing and dissemination data. The platform serves citizens, business, and government alike by promoting the discoverability of data under the [State’s Open Data Policy](http://data.wa.gov.au).
 
